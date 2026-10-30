@@ -1,8 +1,39 @@
-# Leverage's Kitchen: mobile-first landing page
+# 🍽️ Leverage's Kitchen
 
-Files: index.html (all CSS inline, no JavaScript, no frameworks) and images/ (4 compressed JPEGs).
-Total size about 131 KB, well under the 500 KB limit.
+**Welcome to Leverage's Kitchen!**
 
-Leverage's Kitchen is a small food business at Jui Junction, Hastings, serving customers who order cakes, pizza and snacks by phone and pay with Orange Money. I designed the page mobile-first, with the menu and prices in Leones near the top and a WhatsApp and Call bar that stays on screen so a customer can order in one tap. To keep it fast on slow Salone networks, the whole site is about 131 KB: one HTML file with inline CSS, no JavaScript or frameworks, system fonts, and four compressed images that load lazily below the first screen. I used 17px text, strong colour contrast, descriptive alt text, large tap targets and a keyboard skip link so it is easy to read and use on a mid-range Android phone. The location is given with a landmark (opposite Kuma Building) and a Google Maps code, and the opening and delivery hours are clearly listed.
+Leverage's Kitchen is a food-focused website created to showcase delicious meals, snacks, cakes, and desserts. Our goal is to present our food offerings in an attractive and user-friendly way.
 
+## 🌟 Website Features
 
+- Beautiful restaurant branding and logo.
+- Food gallery featuring cakes, parfaits, pizza, and snacks.
+- Clean and user-friendly website layout.
+- Attractive food photography.
+- Responsive design for visitors using different devices.
+
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+## 📸 Food Gallery
+
+Explore some of our delicious offerings:
+
+- Cakes
+- Parfait
+- Pizza and snacks
+
+## 🎯 Project Purpose
+
+This project showcases Leverage's Kitchen's brand identity and food offerings through a simple, attractive online presence.
+
+## 👨‍💻 Project Repository
+
+GitHub: https://github.com/abdulaisallieu-tech/leverages-kitchen01
+
+---
+
+**Leverage's Kitchen — Good Food, Great Taste!** 💙
