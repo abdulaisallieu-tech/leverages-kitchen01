@@ -16,7 +16,6 @@ Leverage's Kitchen is a food-focused website created to showcase delicious meals
 
 - HTML5
 - CSS3
-- JavaScript
 
 ## 📸 Food Gallery
 
